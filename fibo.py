@@ -1,6 +1,3 @@
-from tkinter import N
-
-
 fibo = []
 n = 1
 fibo.append(n)
